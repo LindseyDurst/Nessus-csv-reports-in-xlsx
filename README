@@ -1,8 +1,0 @@
-################################
-DO
-python movecsv2db.py -f file.csv
-python formexcel.py 
-python paint.py -f file.xls
-################################
-
-And dont forget to check formed file first
